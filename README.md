@@ -1,4 +1,4 @@
-💰 Loan EMI Calculator
+💰 **Loan EMI Calculator**
 
 A simple, responsive **Loan EMI Calculator** built using **HTML**, **CSS**, and **JavaScript**.  
 It helps users calculate their **monthly EMI (Equated Monthly Installment)**, **total interest**, and **total payment** for a given loan amount, interest rate, and tenure.
@@ -17,18 +17,24 @@ It helps users calculate their **monthly EMI (Equated Monthly Installment)**, **
 [ EMI = \frac{P \times R \times (1+R)^N}{(1+R)^N - 1} ]
 
 Where:  
-** P ** = Loan Amount  
-** R ** = Rate of Interest (per month)  
-** N ** = Loan Tenure (in months)
+**P** = Loan Amount  
+**R** = Rate of Interest (per month)  
+**N** = Loan Tenure (in months)
 
 🖥️ Technologies Used
 
-** HTML5 ** – for structure  
-** CSS3 ** – for styling and layout  
-** JavaScript (ES6) ** – for logic and dynamic calculations
+**HTML5** – for structure  
+**CSS3** – for styling and layout  
+**JavaScript (ES6)** – for logic and dynamic calculations
 
 ## ⚙️ How to Run Locally
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/loan-emi-calculator.git
+
+📸 Screenshot
+<img width="1907" height="905" alt="image" src="https://github.com/user-attachments/assets/cc6dfe33-a966-4adf-9c25-59f7ab9f3746" />
+
+
+cd loan-emi-calculator
