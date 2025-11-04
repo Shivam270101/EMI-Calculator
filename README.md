@@ -19,7 +19,7 @@ It helps users calculate their **monthly EMI (Equated Monthly Installment)**, **
 Where:  
 **P** = Loan Amount  
 **R** = Rate of Interest (per month)  
-**N** = Loan Tenure (in months)
+**N** = Loan Tenure (in years)
 
 🖥️ Technologies Used
 
