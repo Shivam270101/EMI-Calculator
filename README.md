@@ -33,8 +33,20 @@ Where:
    ```bash
    git clone https://github.com/yourusername/loan-emi-calculator.git
 
+🧾 Example
+
+Input:
+Loan Amount: ₹5,00,000
+Interest Rate: 10% per annum
+Tenure: 5 years
+
+Output:
+**EMI**: ₹10,624
+**Total Interest**: ₹1,37,436
+**Total Payment**: ₹6,37,436
+
 📸 Screenshot
-<img width="1907" height="905" alt="image" src="https://github.com/user-attachments/assets/cc6dfe33-a966-4adf-9c25-59f7ab9f3746" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/cc6dfe33-a966-4adf-9c25-59f7ab9f3746" />
 
 
-cd loan-emi-calculator
+
