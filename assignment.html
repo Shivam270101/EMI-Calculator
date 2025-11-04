@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Calculator</title>
+    <link rel="stylesheet" href="loan.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+
+   
+</head>
+<body>
+    <h1> Welcome to Muthoot Finance </h1>
+
+   
+
+    <div class="border">
+        <div class="container">
+
+        <h3>Enter Loan Information :</h3>
+        <label for="loan">Amount of the Loan <span> <i class="fa-solid fa-indian-rupee-sign"></i></span>
+        <input type="number" id="loan" placeholder="Enter loan amount"><br>
+
+        <label for="rate">Annual percentage of rate of interest</label>
+        <input type="number" id="rate" placeholder="Enter interest rate"><br>
+
+        <label for="period">Repayment period in years</label>
+        <input type="number" id="period" placeholder="period (in yr)"><br><br>
+
+        <button onclick="calculatePayment()"> Calculate Payment</button>
+
+        <h3>Payment Information :</h3>
+        
+        <label> Your monthly payment will be : </label>
+        <input type="number" id="monthly"><br>
+
+        <label> Your total payment will be : </label>
+        <input type="number" id="total"><br>
+        
+        <label> Your total interest payment will be : </label>
+        <input type="number" id="interest" readonly>
+        </div>
+    </div>
+
+    <script src="calculate.js"></script>
+</body>
+</html>
+</body>
+</html>

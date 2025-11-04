@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    text-align: center;
+
+}
+
+.border{
+    border: 2px solid;
+    border-radius: 8px;
+    width:40%;
+    justify-self: center;
+    padding-bottom: 20px;
+    
+
+}
+
+.container{
+    justify-self: center;
+    padding-left: 20px;
+    
+}
+
+input{
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+}
+
+label{
+    font-weight: bold;
+}
